@@ -1,12 +1,29 @@
-# React + Vite
+# 🌐Project Overview:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## This is a fun lottery game built with HTML, CSS, JavaScript & React.js and deployed using Vercel.
 
-Currently, two official plugins are available:
+***
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🛠️Technologies Used:
+- React.js
+- HTML
+- CSS
+- Javascript 
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🌟Key Features:
+- Win Condition: The sum of all digits of the ticket should be = 15
+- Intuitive win and lose messages
+- Flash animations using CSS @keyframes on winning
+- Winning sound with flash animations when a user wins
+
+---
+
+### Project Snapshots:
+
+![image](https://github.com/user-attachments/assets/9528c441-600d-43dd-980f-53ab6f2392bf)
+![image](https://github.com/user-attachments/assets/de0162ba-e83a-4d3e-be4a-fca29959f82b)
+![image](https://github.com/user-attachments/assets/215d7769-4f06-4590-afe6-9d0b8afb1eec)
+
+
