@@ -35,7 +35,7 @@ export default function Lottery({n=3, winCondition}){
         <div className={`mainDiv ${isWinning ? "flash" : ""}`}>
         
             <div className="mainDiv">
-                <h1>Lottery Game!</h1>
+                <h1>Lottery Game💸</h1>
                 <Ticket ticket={ticket}/>
                 <button onClick={buyTicket}>Buy New ticket</button>
                 
