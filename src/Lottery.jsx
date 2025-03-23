@@ -49,7 +49,7 @@ export default function Lottery({n=3, winCondition}){
                 ))}
 
 
-                <p> (<b>Win Condition:</b> Sum of all digits of the ticket should be = 15)</p>
+                <p> (<b>Win Condition:</b> The sum of all digits of the ticket should be = 15)</p>
                 
                 
             </div>
