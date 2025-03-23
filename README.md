@@ -23,7 +23,7 @@
 ### Project Snapshots:
 
 ![image](https://github.com/user-attachments/assets/9528c441-600d-43dd-980f-53ab6f2392bf)
-![image](https://github.com/user-attachments/assets/de0162ba-e83a-4d3e-be4a-fca29959f82b)
+![image](https://github.com/user-attachments/assets/352260da-c657-48ff-a382-2eecaead5036)
 ![image](https://github.com/user-attachments/assets/215d7769-4f06-4590-afe6-9d0b8afb1eec)
 
 
