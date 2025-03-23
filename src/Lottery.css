@@ -1,0 +1,44 @@
+.ticket{
+    border: solid 1px black;
+    border-radius: 15px;
+}
+
+.mainDiv{
+    justify-items: center;
+}
+
+#winMsg{
+    color: green;
+    background-color: yellow;
+
+}
+
+#loseMsg{
+    color: red;
+    /* background-color: yellow; */
+    
+}
+
+footer{
+    font-weight: 700;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%; /* Full-width footer */
+    background-color: #4337ed; /* Add background to make it visible */
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+
+@keyframes flash {
+    0% { background-color: white; }
+    50% { background-color: rgb(4, 255, 0); }
+    100% { background-color: white; }
+}
+
+.flash {
+    animation: flash 0.3s ease-in-out 5; /* 5 quick flashes */
+    
+}
+
