@@ -14,7 +14,7 @@
 
 ### 🌟Key Features:
 - Win Condition: The sum of all digits of the ticket should be = 15
-- Intuitive win and lose messages
+- User-friendly win and loss messages
 - Flash animations using CSS @keyframes on winning
 - Winning sound with flash animations when a user wins
 
